@@ -12,7 +12,7 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 ## How it works?
 The computer randomly choses a word from a list of words and the user tries to guess it.
 
-## Milestones
+
 ### Defining Hangman functions 
 These functions are part of the Hangman game, allowing players to make guesses and checking if their guesses match the randomly selected word.
 
